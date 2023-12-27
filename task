@@ -1,2 +1,2 @@
 Какая команда загружает изменения в удаленный репозиторий?
-git push branch-name
+git push origin branch-name
